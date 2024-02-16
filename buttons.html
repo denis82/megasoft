@@ -131,7 +131,47 @@
                     </div>
                 </div>
             </div>
-            @yield('content')
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-primary card-outline">
+                        <div class="card-header">
+                            <h3 class="card-title">
+                                <i class="fas fa-edit"></i>
+                                Buttons
+                            </h3>
+                        </div>
+                        <div class="card-body pad table-responsive">
+                            <p>Various types of buttons. Using the base class <code>.btn</code></p>
+                            <table class="table table-bordered text-center">
+                                <thead>
+                                    <tr>
+                                        <th>Normal</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="body_buttons">
+                                    <tr>
+                                        <td>
+                                            <button type="button" class="btn btn-block btn-default button-1">1</button>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button type="button" class="btn btn-block btn-default button-2">2</button>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button type="button" class="btn btn-block btn-default button-3">3</button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
         </div>
         <!-- /.content-wrapper -->
         <footer class="main-footer">
@@ -153,6 +193,25 @@
     <script>
 
         $(document).ready(function () {
+
+
+            let items = ['first', 'second', 'third'];
+            console.log(items);
+
+            items = toEnd(items);
+            console.log(items);
+            items = toEnd(items);
+            console.log(items);
+            items = toEnd(items);
+            console.log(items);
+
+
+            function toEnd(items) {
+                const fromIndex = 0;
+                const item = items.splice(fromIndex, 1)[0];
+                items.splice(items.length, 1, item);
+                return items;
+            }
             console.log("ready!");
         });
     </script>
