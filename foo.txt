@@ -1,0 +1,1032 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>РВС Векселя: цены и доходности вексельного рынка, котировки векселей</title>
+        <meta name="robots" content="all">
+        <meta name="Author" content="Мегасофт">
+        <meta name="Subject" content="вексельные индексы вексельная программа">
+        <meta name="Keywords" content="вексель векселя долги зачеты тарифы облигации газпром газпромбанк сбербанк собин альфа эко финансовый рынок внебиржевой биржевой фондовый рынок инструмент обзоры рынка
+вексельные индексы вексельная программа вексельное право инвестиционная компания банк трейдер брокер терминал акция акции деньги вексельный бланк двойное складское свидетельство двойные складские свидетельства
+складская расписка закладная залог варрант ставки РЕПО МБК кредит доходность процент депозитарий учет закон котировка торговля биржа торги куплю продам" >
+        <meta name="Description" content="">        
+        <meta name="document-state" content="">
+        <meta name="revisit" content="">
+        <meta name="Pragma" content="no-cache">
+        <meta http-equiv="Last-Modified" content="Mon, 19 Feb 2024 08:32:50 GMT">    
+		<meta name="yandex-verification" content="d73d79cd78f0e60f" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.pdo.ru/css/bootstrap.min.css?c=1" rel="stylesheet">
+    <link href="https://cdn.pdo.ru/css/bootstrap-theme.min.css?c=1" rel="stylesheet">
+    <link href="https://cdn.pdo.ru/css/common.css?c=1" rel="stylesheet">
+    <!-- Own core CSS -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?c=1">
+    <link rel="stylesheet" href="https://cdn.pdo.ru/css/jquery-ui.css?c=1">  
+    <!-- Bootstrap core JavaScript  -->
+    <script src="https://cdn.pdo.ru/js/jquery.min.js?c=1"></script>
+	<link href="https://cdn.pdo.ru/css/style.css?c=1" rel="stylesheet">
+    	
+        <link rel="stylesheet" type="text/css" href="/css/style.css">
+                <link rel="stylesheet" type="text/css" href="/css/bizon.css">                <link rel="image_src"       href="/images/common/bills70.jpg"/>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+         <script type="text/javascript" src="https://banner.zol.ru/misc/swiffy/runtime.js"><!--
+        //-->
+        </script>
+                                 <script type="text/javascript">
+                    jQuery.noConflict();
+                </script>
+                    </head>
+    <body>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(64461598, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/64461598" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+            <script src="https://cdn.pdo.ru/js/jquery.min.js?c=1"></script>
+            <script src="https://cdn.pdo.ru/js/jquery-ui.js?c=1"></script>
+            <script src="https://cdn.pdo.ru/js/bootstrap.min.js?c=1"></script>
+            <script src="https://cdn.pdo.ru/js/jquery.reject.js?c=1"></script>
+    
+<!-- common top menu -->
+<nav class="navbar navbar-inverse navbar-static-top bizon-navbar">
+    <div class="container bizon-container">
+        <div class="navbar-header">
+            <!--noindex--><a class="navbar-brand" href="https://bizon.ru/" rel="nofollow">
+                <img class="logo-img" height="21" src="https://cdn.pdo.ru/images/logo_mini.svg" alt="Logo" onerror="this.onerror=null; this.src='https://cdn.pdo.ru/images/logo_mini.png'">
+            </a><!--/noindex-->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Навигация</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+                            <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle bold" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Войти</a>
+                        <ul class="dropdown-menu">
+                            <li class="sso_auth_login_form_container">
+                                <form id="sso_auth_ajax_" action="https://www.bills.ru/login" accept-charset="UTF-8" method="post">
+                                    <div class="form-group popup-login">
+                                        <div class="form-group">
+                                            <label for="Email">Логин</label>
+                                            <input class="form-control" name="login" id="Email" placeholder="Введите логин" value="">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="Password">Пароль</label>
+                                            <input class="form-control" name="password" id="Password" placeholder="Введите пароль" type="password">
+                                        </div>
+                                        <div class="form-group popup-login-submit">
+                                            <button type="button" id='login-btn' class="btn btn-primary">Войти</button>
+                                        </div>
+                                        <!--noindex--><a rel="nofollow" href="https://reg.bizon.ru/local/recovery?source=pdo&amp;backto=https://www.bills.ru">Забыли пароль?</a><!--/noindex--><br>
+                                        <!--noindex--><a rel="nofollow" href="https://reg.bizon.ru/local/reg?backurl=https://www.bills.ru/&amp;source=pdo">Зарегистрироваться</a><!--/noindex-->
+                                    </div>
+                                </form>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <!--noindex--><a rel="nofollow" href="https://reg.bizon.ru/local/reg?backurl=https://www.bills.ru/&amp;source=pdo" id="register" target="_blank">Зарегистрироваться</a><!--/noindex-->
+                    </li>
+                                                                    <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >
+                                Объявления
+                                <span class="caret"></span>
+                            </a>
+
+                            <ul class="dropdown-menu">
+                                <li><a href="https://www.bills.ru/favorites">Избранные объявления</a><li>
+                                <li><a href="https://www.bills.ru/?module=add" id="favorites">Добавить объявление</a><li>
+                            </ul>
+                        </li>
+                        
+                        
+                        </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+<input type="hidden" name="http_referer"  value="www.bills.ru">
+
+<script>
+    jQuery("#sso_auth_ajax_").keypress(function(e) {
+        if ( e.which == 10 || e.which == 13 ) {
+            ssoLogin();
+        }
+    });
+
+    jQuery("#login-btn").click(function () {
+        ssoLogin();
+    });
+
+    function ssoLogin()
+    {
+        urls = "https://reg.bizon.ru/remote/auth?http_referer=" + 'www.bills.ru' + "" + "&callback=?";
+        $.ajax({
+            dataType: "text",
+            url: urls,
+            data: jQuery("#sso_auth_ajax_").serialize(),
+            success: function (data) {
+                eval(data);
+                if (data.indexOf("document.location.href") !== 0 &&
+                    typeof $("#sso_rendered .error h3") !== "undefined") {
+                    alert("Ошибка входа: Неправильный пароль");
+                }
+            }
+        });
+        return false;
+   }
+</script>
+<div id="auto-login" style="display:none">
+    <div id="sso_render_to" ></div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    url = 'https://reg.bizon.ru/remote/auth?callback=?&http_referer='+"www.bills.ru"+'&nologin=0&html=1';
+    jQuery.getJSON(url,function(json){
+	consle.log(json);
+    });
+});</script>
+    <div class="container bizon-container">
+    <script type="text/javascript" src="/javascripts/vote.js"><!--
+    //-->
+    </script>
+    <script type="text/javascript" src="/javascripts/script.js"><!--
+    //-->
+    </script>
+    
+    <table cellpadding="0" cellspacing="0" style="width:749px;">
+	<tr>
+		<td colspan="4">
+		<!--Тор-баннер 749х85 -->
+					<script language='JavaScript' type='text/javascript' src='https://banner.zol.ru/adx.js'></script>
+					<script language='JavaScript' type='text/javascript'>
+					<!--
+					   if (!document.phpAds_used) document.phpAds_used = ',';
+					   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+					   
+					   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+					   document.write ("https://banner.zol.ru/adjs.php?n=" + phpAds_random);
+					   document.write ("&amp;what=zone:339");
+					   document.write ("&amp;exclude=" + document.phpAds_used);
+					   if (document.referrer)
+					      document.write ("&amp;referer=" + escape(document.referrer));
+					   document.write ("'><" + "/script>");
+					//-->
+					</script><noscript><a href='https://banner.zol.ru/adclick.php?n=a63df168' target='_blank'>
+					<img src='https://banner.zol.ru/adview.php?what=zone:339&amp;n=a63df168' border='0' alt=''></a></noscript>
+		</td>
+	</tr>
+	<tr>
+		<td style="width:172px;">
+			<div style="font-size:0px;padding-left:1px;">
+				
+				<a href="/"><img src="/images/common/logotypetop.gif" alt="" style="margin:0px; padding:0px;border:0px;"></a>
+				
+			</div>
+		</td>
+		<td style="color:white; width:3px; background-image:url('/images/common/point2.gif');" valign="top">.</td>
+		<td width="510" style="text-align: center;">
+						<!--баннер 468х60-->
+					<script language='JavaScript' type='text/javascript' src='https://banner.zol.ru/adx.js'></script>
+					<script language='JavaScript' type='text/javascript'>
+					<!--
+					   if (!document.phpAds_used) document.phpAds_used = ',';
+					   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+					   
+					   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+					   document.write ("https://banner.zol.ru/adjs.php?n=" + phpAds_random);
+					   document.write ("&amp;what=zone:337");
+					   document.write ("&amp;exclude=" + document.phpAds_used);
+					   if (document.referrer)
+					      document.write ("&amp;referer=" + escape(document.referrer));
+					   document.write ("'><" + "/script>");
+					//-->
+					</script><noscript><a href='https://banner.zol.ru/adclick.php?n=a63df168' target='_blank'>
+					<img src='https://banner.zol.ru/adview.php?what=zone:337&amp;n=a63df168' border='0' alt=''></a></noscript>
+		</td>
+		<td style="text-align: right;vertical-align:bottom;" align="right">
+			<table>
+				<tr>
+					<td style="vertical-align:bottom;" align="right">
+					
+
+					</td>
+				</tr>
+				<tr>
+					<td class="menu_r" align="right" valign="bottom">
+					<a href="https://www.rvs.ru">
+					<img src="/images/common/rvs.gif"alt="" style="margin:0px; padding:0px;border:0px;">
+					</a>
+					<div id='time' style="margin-top:-20px;">&nbsp;&nbsp;</div>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>    <table cellpadding="0" cellspacing="0" style="width:755px; border:0px;">
+        <tr>
+            <td style="width:52px;background-color:#bcbcbc;" valign="top">
+            <table cellpadding="0" cellspacing="0" style="width:52px; background-color: white; margin-top:0px; padding:0px; border:0px;">
+	<tr style="height:3px;">
+		<td style="background-color:#bcbcbc; font-size:0px; width:51px; height:3px; line-height: 3px;" valign="top">
+			<img src="/images/common/logotypemiddle.gif" alt="" style="border:0px;">
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color:#bcbcbc; width:51px; height:108px; text-align:left; vertical-align:top;" valign="top">
+			<img src="/images/common/logotypebottom.gif" style="border:0px;" alt="" >
+		</td>
+		
+	</tr>
+	<tr>
+		<td style="background-color:#bcbcbc;  width:51px;height:80px; vertical-align:top;" valign="top">
+			<img src="/images/common/market.gif" border="0" alt="">
+		</td>
+		
+	</tr>
+	<tr>
+		<td style="background-color:#bcbcbc;width:51px;height:60px; vertical-align:top;" valign="top">
+			<img src="/images/common/treider.gif" alt="" style="border:0px;">
+		</td>
+		
+	</tr>
+	<tr>
+		<td style="background-color:#bcbcbc; padding-top:10px; width:51px; vertical-align:top;" valign="top">
+			<img src="/images/common/onsite.gif" alt="" style="border:0px;">
+		</td>
+		
+	</tr>
+	<tr>
+		<td style="background-color:#bcbcbc;"></td>
+		
+	</tr>
+</table>            </td>
+            <td valign="top" style="color:white; width:3px; background-image:url('/images/common/point2.gif');">.</td>
+            <td style="width:116px;" valign="top">
+            <table cellpadding="0" cellspacing="0">
+	<tr>
+	<td  style="color:white; height:3px;font-size:0px;padding:0px; background-image:url('/images/common/point2.gif');">.</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; vertical-align:top;">
+							<a class="menu" href="/about/" onclick="">о системе</a><br>
+							<a class="menu" href="/news/com/" onclick="">новости системы</a><br>
+							<a class="menu" href="/members/" onclick="">участники системы</a><br>
+							<a class="menu" href="/installation/" onclick="">установка терминала</a><br>
+							<a class="menu" href="/tariffs/" onclick="">подключение</a><br>
+							<a class="menu" href="/faq/" onclick="">вопросы и ответы</a><br>
+							<a class="menu" href="/support/" onclick="">техподдержка</a><br>
+				
+		</td>
+	</tr>
+	<tr>		
+		<td style="padding-top:15px; vertical-align:top;">
+							<a class="menu" href="/archives/" onclick="">котировки</a><br>
+							<a class="menu" href="/quotes/" onclick="">графики</a><br>
+							<a class="menu" href="/events/" onclick="">мероприятия</a><br>
+							<a class="menu" href="/docs/" onclick="">законодательство</a><br>
+							<a class="menu" href="/memorandum/" onclick="">инв. меморандумы</a><br>
+				
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-top:15px;vertical-align:top;">
+								<a class="menu" href="/market/" onclick="">конъюнктура рынка</a><br>
+								<a class="menu" href="/vote/" onclick="">голосование</a><br>
+								<a class="menu" href="/photo/" onclick="">фотоальбом</a><br>
+								<a class="menu" href="/calendar?num=1&days=&cost=&yield=&schem=&v=" onclick="">калькулятор</a><br>
+				
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" style="padding-top:15px;">
+							<a class="menu" href="/advertisement/">реклама</a><br>
+							<a class="menu" href="/contacts/">контакты</a><br>
+				
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-top:150px;vertical-align:middle;">
+			<!--все, что ниже основного меню-->
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="text-align:center;">
+					
+					</td>
+				</tr>
+				<tr>
+					<td>
+						
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center; vertical-align:middle;">
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center; vertical-align:middle;">
+					</td>
+				</tr>
+			</table>	
+		</td>
+	</tr>	
+</table>            </td>
+            <td valign="top" style="color:white; width:3px; background-image:url('/images/common/point2.gif');">.</td>
+            <td style="width:575px; vertical-align:top;">
+                <table cellpadding="0" cellspacing="0" style="width:575px; border:0px;">
+                    <tr>
+                        <td style="background-color:white; font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <table cellpadding="0" cellspacing="0" style="width:575px; border: 0px; height: 100%;">
+	<tr>
+		<td style="width:400px; vertical-align:top; text-align:center;">
+		<!--Центральная колонка-->
+		<div class="titles" style="display:block;">
+			  &nbsp;&nbsp; события на долговом рынке
+		</div>
+		<!--Блок новостей-->
+		<table cellpadding="0" cellspacing="0" style="width:400px;margin-top:10px;">
+			<tr>
+                            <td>
+                                
+<div class="generic_layout_container layout_megasoftnews_api_list"><style type="text/css">
+    .bizon_api_news_original_date {
+        color: #585858;
+        font-size: 0.8em;
+        display: inline-block;
+    }
+</style>
+<table id="bizon_api_news_list" class="bizon_api_list bizon_api_news_table">
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            21 мар 2022        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=598344">Минстрой не планирует вводить мораторий на начисление пеней и долгов по ЖКУ</a>                       <span class="bizon_api_news_original_date">(от 21 мар 2022)</span>
+                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            21 мар 2022        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=598343">Кредитные линии для регионов, обслуживание долга России - инвестобзор ДФО, страны, мира</a>                       <span class="bizon_api_news_original_date">(от 21 мар 2022)</span>
+                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            21 мар 2022        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=598322">В Красноярске арестовали цех металлургического завода из-за долга 16 млн рублей</a>                       <span class="bizon_api_news_original_date">(от 21 мар 2022)</span>
+                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            21 мар 2022        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=598303">У ярославской компании изъяли «Мерседес» за 7-миллионный долг</a>                       <span class="bizon_api_news_original_date">(от 21 мар 2022)</span>
+                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            21 мар 2022        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=598290">С фермера из Тайшета взыскали 179 тысяч долга по зарплате работнику</a>                       <span class="bizon_api_news_original_date">(от 21 мар 2022)</span>
+                   </td>
+    </tr>
+    </table></div>
+                            </td>
+			</tr>
+			<tr>
+				<td style="padding-bottom:4px;" align="right"><a href="/news/" class="all_blocks">Все события... </a></td>
+			</tr>
+			<tr>
+				<td style="background-color: white;font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+			</tr>
+			<tr>
+				<td style="background-color: white;font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+			</tr>
+		</table>
+		<!--Блок новостей END-->
+		
+		<table cellpadding="0" cellspacing="0" style="width:400px;">
+			<tr>
+				<td style="text-align:center;padding-top:15px;padding-bottom:15px;">
+					<a href="/tariffs/" style="color:#DB1D23;font-family:arial,sans-serif;font-weight:bold;font-size:12px;text-decoration:none;">
+						Подключение к системе РВС-Векселя
+					</a>
+				</td>
+			</tr>
+		</table>
+		<!--Центральный баннер (1) 350х60 -->
+		<table cellpadding="0" cellspacing="0" style="width:400px;">
+			<tr>
+				<td style="text-align:center;">
+				</td>
+			</tr>
+		</table>
+		
+		
+		<!--Обзоры рынка END-->
+		
+		
+			<!--Центральный баннер (2) 350х60 -->
+		<table cellpadding="0" cellspacing="0" style="width:400px;">
+			<tr>
+				<td style="text-align:center;">
+				</td>
+			</tr>
+		</table>
+		
+		
+		<!--новые участники системы РВС-Векселя-->
+		<div class="titles">
+			   &nbsp;&nbsp;новые участники системы РВС-Векселя
+		</div>
+		<!--Блок новостей-->
+		<table cellpadding="0" cellspacing="0" style="width:400px;margin-top:10px;">
+			<tr>
+				<td style="text-align:left;">
+                                    <div class="generic_layout_container layout_megasoftnews_api_list">
+					<table cellpadding="0" cellspacing="0">
+											<tr>
+							<td class="news_date">
+								26.11.21							</td>
+							<td style="padding-bottom:10px; vertical-align:top; text-align:left;">
+								<a href="/members/56791/" target="_blank" class="news">
+									МПК РЭСПП «АММАР»								</a>
+							</td>
+						</tr>
+											<tr>
+							<td class="news_date">
+								02.10.21							</td>
+							<td style="padding-bottom:10px; vertical-align:top; text-align:left;">
+								<a href="/members/56566/" target="_blank" class="news">
+									Мультиплан Инвест								</a>
+							</td>
+						</tr>
+											<tr>
+							<td class="news_date">
+								08.11.21							</td>
+							<td style="padding-bottom:10px; vertical-align:top; text-align:left;">
+								<a href="/members/55536/" target="_blank" class="news">
+									СКИФ								</a>
+							</td>
+						</tr>
+											<tr>
+							<td class="news_date">
+								03.09.20							</td>
+							<td style="padding-bottom:10px; vertical-align:top; text-align:left;">
+								<a href="/members/54728/" target="_blank" class="news">
+									МЕТАЛЛ ТРЕЙД								</a>
+							</td>
+						</tr>
+											<tr>
+							<td class="news_date">
+								12.10.21							</td>
+							<td style="padding-bottom:10px; vertical-align:top; text-align:left;">
+								<a href="/members/54448/" target="_blank" class="news">
+									ЮФ "НЕРИС"								</a>
+							</td>
+						</tr>
+										</table>
+                                    </div>
+				</td>
+			</tr>
+			<tr>
+				<td style="padding-bottom:4px; text-align:right;"><a href="/members/" class="all_blocks">Все участники... </a></td>
+			</tr>
+			<tr>
+				<td style="background-color:white; font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+			</tr>
+		</table>		
+		<!--новые участники системы РВС-Векселя END-->
+		
+		
+		<!--новости системы РВС-Векселя-->
+		<div class="titles">
+			 &nbsp;&nbsp; новости системы РВС-Векселя
+		</div>
+		<!--Блок новостей-->
+		<table cellpadding="0" cellspacing="0" style="width:400px;margin-top:10px;margin-bottom:30px;">
+			<tr>
+                            <td>
+                                
+<div class="generic_layout_container layout_megasoftnews_api_list"><style type="text/css">
+    .bizon_api_news_original_date {
+        color: #585858;
+        font-size: 0.8em;
+        display: inline-block;
+    }
+</style>
+<table id="bizon_api_news_list" class="bizon_api_list bizon_api_news_table">
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            5 июн 2018        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=442447">Приглашаем всех участников вексельного рынка в пятницу 6 июля на вечернюю прогулку с коллегами и партнерами на теплоходе «Князь Юрий» по центральной части Москвы</a>                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            14 июн 2017        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=382688">Приглашаем всех участников вексельного рынка в пятницу 21 июля на вечернюю прогулку с коллегами и партнерами на теплоходе «Князь Юрий» по центральной части Москвы</a>                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            10 июн 2016        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=333804">Приглашаем всех участников вексельного рынка встретиться с коллегами, партнерами, контрагентами из других компаний в пятницу 8 июля на борту теплохода «Легенда»</a>                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            2 июн 2015        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=186556">Приглашаем всех участников вексельного рынка в пятницу 10 июля на вечернюю прогулку на теплоходе по центральной части Москвы</a>                   </td>
+    </tr>
+        <tr class="bizon_api_news_row">
+        <td class="news_date">
+            25 июн 2014        </td>
+        <td>
+           <a  href="https://www.bills.ru/news/?bid=62857">Приглашаем всех участников вексельного рынка встретиться с коллегами, партнерами, контрагентами из других компаний в пятницу 25 июля на теплоходе «Москва»</a>                   </td>
+    </tr>
+    </table></div>
+                            </td>
+			</tr>
+			<tr>
+				<td style="padding-bottom:4px; text-align:right;"><a href="/news/com/" class="all_blocks">Все новости... </a></td>
+			</tr>
+			
+		</table>	
+
+		<!--новости системы РВС-Векселя-->
+		
+		
+		
+		<!--Центральная колонка END-->
+		</td>
+		<td style="color:white; background-color:white; background-image:url('/images/common/point2.gif'); background-repeat: repeat-y; width:3px; height:100%;">.</td>
+		<td style="background-color:white; vertical-align:top; width:171px;">
+		<!--Правая колонка-->
+		
+		    
+<table  cellpadding="0" cellspacing="0"  class="titles" 
+    style="width:100%; font-size:11px; margin:0px;color:#313131">
+    <tr>
+        <td style="text-align:left;">
+            &nbsp;19.02.2024        </td>
+        <td style="text-align:right;">
+            Понедельник&nbsp;        
+        </td>
+    </tr>
+</table>
+<table cellpadding="0" cellspacing="0" style="width:171px;">
+    <tr>
+        <td style="background-color:white; font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+    </tr>
+    <tr>
+        <td style="background-color:white; font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+    </tr>
+    <tr>
+        <td>
+        <a href="/quotes/index_rvs/rvs_index.php">
+            <img src="/quotes/index_rvs/rvsi_inform.php" border="0" alt="">
+        </a>
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color:white; font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+    </tr>
+</table>
+
+<!--Престиж-блок (1) 170x120  -->
+<table cellpadding="0" cellspacing="0" style="width:171px;">
+    <tr>
+        <td>
+            <script language='JavaScript' type='text/javascript' src='https://banner.zol.ru/adx.js'></script>
+            <script language='JavaScript' type='text/javascript'>
+            <!--
+               if (!document.phpAds_used) document.phpAds_used = ',';
+               phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+               
+               document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+               document.write ("https://banner.zol.ru/adjs.php?n=" + phpAds_random);
+               document.write ("&amp;what=zone:");
+               document.write ("&amp;exclude=" + document.phpAds_used);
+               if (document.referrer)
+                  document.write ("&amp;referer=" + escape(document.referrer));
+               document.write ("'><" + "/script>");
+            //-->
+                </script><noscript><a href='https://banner.zol.ru/adclick.php?n=a63df168' target='_blank'>
+                <img src='https://banner.zol.ru/adview.php?what=zone:&amp;n=a63df168' border='0' alt=''></a></noscript>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+<!--конъюнктура рынка  -->
+<table cellpadding="0" cellspacing="0" style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;width:171px;">
+
+    <tr>
+        <td colspan="2" style="background-color: white;font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+    </tr>
+    <tr>
+        <td colspan="2" class="menu_r" style="text-align:right;">конъюнктура рынка &nbsp;&nbsp;</td>
+    </tr>
+    
+    <tr>
+        <td colspan="2" width="170"  style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;text-align:left;" >
+            <div class="news" style="text-align:left;padding-top:5px;padding-bottom:5px;">Как вы оцениваете текущее состояние рынка?</div>
+		<form id="market_vote_form" class="hmenu" style="margin-top:0px;"method="post" action="/market/form/288/" name="market_vote_form">
+		<br style="font-size: 4px;">
+		<input type="hidden" name="market_vote_answer_a_val" id ='market_vote_answer_a_val' value=''>
+		<input type="hidden" name="market_vote_answer_b_val" id ='market_vote_answer_b_val' value=''>
+<table align="left">
+	<tbody>
+		<tr>
+			<td align="left">
+				<div id='market_vote_a1_pic' onclick='change_state_a(1);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif) '>
+				</div>
+			</td>
+			<td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;" align="left">
+				положительно<br>
+			</td>
+		</tr>
+		
+		<tr>
+			<td align="left">
+				<div id='market_vote_a2_pic' onclick='change_state_a(2);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+				</div>
+			</td>
+			<td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;" align="left">
+				нейтрально<br>
+			</td>
+		</tr>
+		
+		<tr>
+			<td align="left">
+				<div id='market_vote_a3_pic' onclick='change_state_a(3);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+				</div>
+			</td>
+			<td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;" align="left">
+				отрицательно<br>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="newshead" colspan="2" align="left"><div class="news" style="padding-top:10px;padding-bottom:10px;">
+			Как Вы прогнозируете изменение ситуации на рынке?</div></td>
+		</tr>
+		
+		<tr>
+			<td align="left">
+				<div id='market_vote_b1_pic' onclick='change_state_b(1);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+				</div>
+			</td>
+			<td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;" align="left">
+				будет улучшение<br>
+			</td>
+		</tr>
+
+		<tr>
+			<td align="left">
+				<div id='market_vote_b2_pic' onclick='change_state_b(2);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+				</div>
+			</td>
+			<td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;" align="left">
+				ничего не изменится<br>
+			</td>
+		</tr>
+
+		<tr>
+			<td align="left">
+				<div id='market_vote_b3_pic' onclick='change_state_b(3);' align="left" style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+				</div>
+			</td>
+			<td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;" align="left">
+				будет ухудшение<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<input type="hidden" value="" name="signature">
+</form>        </td>
+    </tr>
+    
+    <tr>
+        <td style="text-align:left;padding-top:10px;">
+        <input onclick="submit_market_vote();" type="image" src="/images/common/vote.gif" style="height:12px; border: 0px;background-color:#BCBCBC; padding:2px;">        
+        </td>
+        <td style="text-align:right;padding-right:3px;">
+            <a href="/market/" class="news" style="font-size:11px;"><u>итоги</u></a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"style="background-color: white;font-size:0px;  background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+        
+    </tr>
+</table>
+<!--конъюнктура рынка   END-->
+        
+        <!--Престиж-блок (1) 170x120  -->
+<table cellpadding="0" cellspacing="0" style="width:171px;">
+    <tr>
+        <td>
+            <script language='JavaScript' type='text/javascript' src='https://banner.zol.ru/adx.js'></script>
+            <script language='JavaScript' type='text/javascript'>
+            <!--
+               if (!document.phpAds_used) document.phpAds_used = ',';
+               phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+               
+               document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+               document.write ("https://banner.zol.ru/adjs.php?n=" + phpAds_random);
+               document.write ("&amp;what=zone:");
+               document.write ("&amp;exclude=" + document.phpAds_used);
+               if (document.referrer)
+                  document.write ("&amp;referer=" + escape(document.referrer));
+               document.write ("'><" + "/script>");
+            //-->
+                </script><noscript><a href='https://banner.zol.ru/adclick.php?n=a63df168' target='_blank'>
+                <img src='https://banner.zol.ru/adview.php?what=zone:&amp;n=a63df168' border='0' alt=''></a></noscript>
+        </td>
+    </tr>
+</table>
+        <!--Престиж-блок END -->
+        <!--вопрос недели  -->
+<table cellpadding="0" cellspacing="0" style="width:171px;">
+
+    <tr>
+        <td  colspan="2" style="background-color: white;font-size:0px; background-image:url('/images/common/point2.gif'); height:3px;">.</td>
+    </tr>
+    <tr>
+        <td colspan="2" class="menu_r" style="text-align:right;">вопрос недели &nbsp;&nbsp;</td>
+    </tr>
+    
+    
+    <tr>
+        <td class="newshead" width="170" colspan="2" style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;padding-bottom:10px;text-align:left;">
+        <div class="news" style="margin-top:10px;margin-bottom:10px;">
+            Какой источник информации по рынку векселей является для Вас основным?        </div>
+            <form id="vote_form" class="hmenu"style="margin:0px;" method="post" action="/vote/form/59/" name="vote_form">
+            
+            <input type="hidden" name="vote_answer_val" id ='vote_answer_val' value='-1'>
+            
+            <table>
+                                    <tr>
+                        <td>
+                            <div id='vote_0_pic' onclick='change_state(0);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+                            </div>
+                        </td>
+                        <td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;">
+                            Печатные издания<br>
+                        </td>
+                    </tr>
+
+                                    <tr>
+                        <td>
+                            <div id='vote_1_pic' onclick='change_state(1);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+                            </div>
+                        </td>
+                        <td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;">
+                            Интернет<br>
+                        </td>
+                    </tr>
+
+                                    <tr>
+                        <td>
+                            <div id='vote_2_pic' onclick='change_state(2);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+                            </div>
+                        </td>
+                        <td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;">
+                            Терминал РВС<br>
+                        </td>
+                    </tr>
+
+                                    <tr>
+                        <td>
+                            <div id='vote_3_pic' onclick='change_state(3);' style='visibility:visible; font-size: 0px; height: 11px;  width:11px; background-image: url(/images/vote/vote_no.gif)'>
+                            </div>
+                        </td>
+                        <td style="font-family:Arial,Helvetica, Sans-serif;font-size: 12px;">
+                            Личное общение<br>
+                        </td>
+                    </tr>
+
+                            </table>
+            
+            <input id="vote_max_number" type="hidden" value="" name="signature">
+            <input type="hidden" value="" name="signature">
+            </form>
+        </td>
+    </tr>
+
+    
+    <tr>
+        <td style="text-align:left;">
+        <input onclick="submit_vote();" type="image" src="/images/common/vote.gif" style="height:12px; border: 0px; background-color:#BCBCBC; padding:2px;">      
+        </td>
+        <td style="text-align:right;padding-right:3px;">
+            <a href="/vote/" class="news" style="font-size:11px;"><u>итоги</u></a>
+        </td>
+    </tr>
+</table>
+<!--вопрос недели   END-->		
+		<!--Правая колонка END-->
+		</td>
+	</tr>
+</table>                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td valign="top" style="color:white; width:3px; background-image:url('/images/common/point2.gif');">.</td>
+            <td></td>
+        </tr>
+    </table>
+    
+    <table cellpadding="0" cellspacing="0" style="width:755px; border:0px;">
+		<tr>
+			<td style="width:52px;background-color:#bcbcbc;" valign="top">
+			</td>
+			<td valign="top" style="color:white; width:3px; background-image:url('/images/common/point2.gif');">.</td>
+			
+			
+			
+			
+			
+			<td style="width:116px;" valign="bottom">
+													<a class="partners" href="https://www.dolgionline.ru/" title="https://www.dolgionline.ru/">Долги Онлайн: долговая площадка, продажа ипотечных и кредитных договоров, материальные активы, недвижимость, 
+					  векселя, акции, облигации</a><br><br>
+									
+	
+<div class="social_buttons">
+	<div class="social_buttons_probel">
+		<a href="https://twitter.com/bills_ru " class="" target="_blank">
+			<img border="0" alt="Twitter" src="/images/social_buttons/twitter.png">
+		</a>
+	</div>
+	<div class="social_button_txt">
+		<a href="https://twitter.com/bills_ru " class=" hover_underline" target="_blank">Twitter</a>
+	</div>
+</div>
+
+<div class="social_buttons">	
+	<div class="social_buttons_probel">
+		<a href="https://www.facebook.com/bills.ru " class="" target="_blank">
+			<img border="0" alt="Facebook" src="/images/social_buttons/facebook.png">
+		</a>
+	</div>
+	<div class="social_button_txt">
+		<a href="https://www.facebook.com/bills.ru" class=" hover_underline" target="_blank">Facebook</a>
+	</div>
+</div>
+
+<div class="social_buttons">
+	<div class="social_buttons_probel">
+		<a href="https://plus.google.com/112376660696230649548/about" class="" target="_blank">
+			<img border="0" alt="Google+" src="/images/social_buttons/google.png">
+		</a>
+	</div>
+	<div class="social_button_txt">
+		<a href="https://plus.google.com/112376660696230649548/about" class=" hover_underline" target="_blank">Google+</a>
+	</div>
+</div>
+
+<div class="social_buttons">	
+	<div class="social_buttons_probel">
+		<a href="https://vk.com/bills_ru " class="" target="_blank">
+			<img border="0" alt="Вконтакте" src="/images/social_buttons/vkontakte.png">
+		</a>
+	</div>
+	<div class="social_button_txt">
+		<a href="https://vk.com/bills_ru " class=" hover_underline" target="_blank">Вконтакте</a>
+	</div>
+</div>	
+
+<div class="social_buttons">	
+	<div class="social_buttons_probel">
+		<a href="https://odnoklassniki.ru/group/51791744991301" class="" target="_blank">
+			<img border="0" alt="РћРґРЅРѕРєР»Р°СЃСЃРЅРёРєРё" src="/images/social_buttons/odnoklassniki.png">
+		</a>
+	</div>
+	<div class="social_button_txt">
+		<a href="https://odnoklassniki.ru/group/51791744991301" class=" hover_underline" target="_blank">Одноклассники</a>
+	</div>
+</div>
+
+<div class="social_buttons">
+	<div class="social_buttons_probel">
+		<a href="https://bizon.ru/bills" class="">
+			<img border="0" alt="Бизнес Онлайн" src="/images/social_buttons/bizon.png">
+		</a>
+	</div>
+	<div class="social_button_txt">
+		<a href="https://bizon.ru/bills" class=" hover_underline">Бизнес Онлайн</a>
+	</div>
+</div>					<a href="https://www.megasoft.ru"><img src="/images/common/megasoft.jpg" alt="" style="border:0px;"></a>
+			
+			</td>
+			<td valign="top" style="color:white; width:3px; background-image:url('/images/common/point2.gif');">.</td>
+							<td  style="width:400px;text-align:center;">
+					
+<div style="float:left; width:100%; text-align:center;margin-top:100px;margin-bottom:10px;font-size:12px;">
+	<!-- Яндекс.Директ -->
+	<script type="text/javascript"><!--
+	yandex_partner_id = 129009;
+	yandex_site_bg_color = 'FFFFFF';
+	yandex_site_charset = 'UTF-8';
+	yandex_ad_format = 'direct';
+	yandex_font_size =1;
+	yandex_font_family = 'arial';
+	yandex_direct_type = 'horizontal';
+	yandex_direct_border_type = 'ad';
+	yandex_direct_limit = 2;
+	yandex_direct_header_bg_color = 'DEDBDB';
+	yandex_direct_bg_color = 'F7F5F5';
+	yandex_direct_border_color = 'DEDBDB';
+	yandex_direct_title_color = '000000';
+	yandex_direct_url_color = '000000';
+	yandex_direct_all_color = '000000';
+	yandex_direct_text_color = '000000';
+	yandex_direct_hover_color = '0066FF';
+	document.write('<sc'+'ript type="text/javascript" src="https://an.yandex.ru/system/context.js"></sc'+'ript>');
+	//--></script>
+
+</div>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t14.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31' style='display:none'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "315656", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=315656;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+				</td>	
+				<td valign="top" style="color:white; width:3px; background-image:url('/images/common/point2.gif');">.</td>
+				<td style="width:171px;"></td>
+			
+						<td valign="top" style="color:white; width:3px; background-image:url('/images/common/point2.gif');">.</td>
+		</tr>
+	</table><table cellpadding="0" cellspacing="0" style="width:753px;">
+	<tr>
+		<td style="background-color:white; background-image:url('/images/common/point2.gif'); height:3px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center;"> 
+		<!--Нижний баннер 468x60 -->
+					<script language='JavaScript' type='text/javascript' src='https://banner.zol.ru/adx.js'></script>
+					<script language='JavaScript' type='text/javascript'>
+					<!--
+					   if (!document.phpAds_used) document.phpAds_used = ',';
+					   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+					   
+					   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+					   document.write ("https://banner.zol.ru/adjs.php?n=" + phpAds_random);
+					   document.write ("&amp;what=zone:338");
+					   document.write ("&amp;exclude=" + document.phpAds_used);
+					   if (document.referrer)
+					      document.write ("&amp;referer=" + escape(document.referrer));
+					   document.write ("'><" + "/script>");
+					//-->
+					</script><noscript><a href='https://banner.zol.ru/adclick.php?n=a63df168' target='_blank'>
+					<img src='https://banner.zol.ru/adview.php?what=zone:338&amp;n=a63df168' border='0' alt=''></a></noscript>
+		</td>
+	</tr>
+</table>    </div>
+    </body>
+</html>

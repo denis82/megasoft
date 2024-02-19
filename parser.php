@@ -7,33 +7,39 @@ final class Parser
     {
         $dom = new DOMDocument();
 
-
-        //methods to load HTML
         $this->curl();
-        $dom->loadHTMLFile('https://www.bills.ru/');
-
-
-        $documentElement = $dom->documentElement;
-        var_dump($documentElement);
+        $dom->loadHTMLFile('foo.html');
+        return $dom;
     }
 
-    private function curl()
+    private function curl(): void
     {
-        $url = "https://www.bills.ru";
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
-
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-        $res = curl_exec($ch);
-        var_dump(curl_error($ch));
-        curl_close($ch);
-        exit;
+        if (!file_get_contents('foo.html')) {
+            exec('curl -o foo.html https://www.bills.ru');
+        }
     }
 }
 
 
 $d = new Parser();
 
-$d->dom();
+$dom  = $d->dom();
+
+$table = $dom->getElementById('bizon_api_news_list');
+$child_elements = $table->getElementsByTagName('td');
+
+foreach ($child_elements as $child_element) {
+    if ("news_date" === $child_element->getAttribute('class')) {
+        var_dump("Дата: " . trim($child_element->textContent));
+    }
+
+    $ps = $child_element->getElementsByTagName('a');
+    $first_para = $ps->item(0);
+    if ($first_para) {
+        var_dump($first_para->textContent);
+        foreach ($ps as $g) {
+            $url = $child_element->getAttribute('href');
+            var_dump($url);
+        }
+    }
+}
